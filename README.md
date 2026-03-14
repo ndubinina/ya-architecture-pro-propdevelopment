@@ -1,0 +1,1 @@
+# ya-architecture-pro-propdevelopment
