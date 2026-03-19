@@ -1,0 +1,12 @@
+# включает privileged: true
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-privileged
+  namespace: gatekeeper-check
+spec:
+  containers:
+    - name: nginx
+      image: nginx:latest
+      securityContext:
+        privileged: true

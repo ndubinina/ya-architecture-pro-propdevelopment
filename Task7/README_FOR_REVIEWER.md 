@@ -1,0 +1,26 @@
+Запускаем namespace (создается audit-zone в restricted и gatekeeper-check для дальнейшей проверки правил gatekeeper):
+kubectl apply -f 01-create-namespace.yaml
+
+Проверяем, что установка pod не разрешены в audit-zone:
+kubectl apply -f insecure-manifests/01-privileged-pod.yaml
+kubectl apply -f insecure-manifests/02-hostpath-pod.yaml
+kubectl apply -f insecure-manifests/03-root-user-pod.yaml
+
+Проверяем, что установка pod работает в audit-zone:
+kubectl apply -f secure-manifests/01-secure.yaml
+kubectl apply -f secure-manifests/02-secure.yaml
+kubectl apply -f secure-manifests/03-secure.yaml
+
+Установка gatekeeper:
+kubectl apply -f https://raw.githubusercontent.com/open-policy-agent/gatekeeper/master/deploy/gatekeeper.yaml
+
+Создаем шаблоны gatekeeper:
+kubectl apply -f gatekeeper/constraint-templates/
+
+Создаем constraints gatekeeper для gatekeeper-check и audit-zone:
+kubectl apply -f gatekeeper/constraints/
+
+Проверяем, что правила gatekeeper срабатывают и pod не создается:
+kubectl apply -f insecure-manifests/gatekeeper/01-privileged-pod.yaml
+kubectl apply -f insecure-manifests/gatekeeper/02-hostpath-pod.yaml
+kubectl apply -f insecure-manifests/gatekeeper/03-root-user-pod.yaml
