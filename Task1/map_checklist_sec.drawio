@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Страница-1" id="bNAeCsEBc_UTnQQTp2Nx">
+    <mxGraphModel dx="1613" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-21" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-22" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-23" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-24" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Безопасность данных&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="290" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-28" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;публичные данные&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-26" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;конфиденциальные&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;данные&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="472.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-25" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;секретные&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;данные&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="725" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-27" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;white-space-collapse: preserve-breaks; caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;внутренние&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;данные&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-31" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;1) бухгалтерские данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;2)&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;данные о бронировании недвижимости&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;3) обезличенные данные для аналитики&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;4) логи&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="190" x="215" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-29" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;1) каталог недвижимости&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;2) данные для онлайн просмотра недвижимости&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;3) данные УК о капитальном и текущем ремонте&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="-10" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-33" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;1) персональные данные клиентов и собственников (email, ФИО, телефон и т.п.)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;2) данные о сделках&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;3) счета на оплату ЖКХ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;4) данные умных устройств&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="225" x="430" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-36" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;1) платежные данные&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;сделки клиента&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;2) платежные данные оплат собственников&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;3) аутентификационные данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="230" x="680" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-30" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Риски - искажение данных, риск значительный&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="-10" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Обоснование: отображение искаженной информации наносит ущерб репутации компании и снижение доверия клиентов&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="200" x="-10" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-32" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;box-sizing: inherit; margin-top: var(--size-100, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * .5)); padding: 0 0 0 var(--size-700, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 2)); white-space-collapse: preserve-breaks; list-style: none; caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; position: relative; margin: 0 0 var(--size-100, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * .5));&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Риски - утечка данных, риск значительный&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="215" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Обоснование: эти данные могут использоваться злоумышленниками для проведения атак на инфраструктуру компании.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="185" x="217.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-34" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HvBbE6DFLtQefyfHHWWZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;Риски - утечка данных, риск критический&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- потеря&amp;nbsp; и искажение данных, риск&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;критический&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="447.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Обосновние: Утечка персональных данных приведёт к штрафам и потере доверия клиентов. Может привести к атакам мошенниками клиентов. Потеря и искажение данных нарушат доверие клиентов и может привести к потере ими денег&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="220" x="432.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-37" edge="1" parent="1" source="HvBbE6DFLtQefyfHHWWZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HvBbE6DFLtQefyfHHWWZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;Риски - утечка данных, риск критический&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="680" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HvBbE6DFLtQefyfHHWWZ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0.85); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Обоснование: утечка финансовых данных может привести к значительным убыткам и нарушениям законодательства, связанным с защитой данных платёжных карт.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 13px; caret-color: rgba(0, 0, 0, 0.85); white-space-collapse: preserve-breaks;&quot;&gt;Кража финансовой информации может привести к финансовым потерям компании и клиентов.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="240" x="675" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

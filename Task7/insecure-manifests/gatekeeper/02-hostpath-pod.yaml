@@ -1,0 +1,18 @@
+# монтирует hostPath
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-hostpath
+  namespace: gatekeeper-check
+spec:
+  containers:
+    - name: nginx
+      image: nginx:latest
+      volumeMounts:
+        - name: log-path
+          mountPath: /var/log/audit-on-host
+  volumes:
+    - name: log-path
+      hostPath:
+        path: /tmp/audit.log
+        type: FileOrCreate

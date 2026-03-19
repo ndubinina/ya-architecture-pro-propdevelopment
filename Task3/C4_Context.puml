@@ -1,0 +1,49 @@
+@startuml
+title PropDevelopment Context Diagram
+
+top to bottom direction
+
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Context.puml
+
+Person(client, "Клиент", "Потенциональный покупатель")
+Person(tentant, "Собственник", "Собственник жилья")
+Person(manager, "Менеджер")
+Person(business_analyst, "Бизнес аналитик")
+Person(accounter, "Бухгалтер")
+Person(bi_analyst, "BI-аналитик")
+
+System(prop_development_sales, "Сервисы для продаж - просмотр жилья и оформление сделок")
+System(prop_development_gkh, "Система услуг ЖКХ для собственников - оплата ЖКХ, просмотр информации от ЖКХ")
+System(prop_development_smarthouse, "Система для умного дома")
+System(prop_development_account, "Ведение бухгалтерии")
+System(prop_development_bi, "Система для bi аналитики")
+
+System_Ext(payment_system, "Платежная система")
+System_Ext(gkh_providers, "Поставщики ЖКХ")
+System_Ext(gov_smev, "Государственные регистрационные органы")
+System_Ext(smarthouse_providers, "Поставщик Интеллектуального домофона и шлакбаума")
+
+Rel(client, prop_development_sales, "Просмотр жилья для покупки, проведение сделки")
+Rel(tentant, prop_development_gkh, "Просмотр и оплата услуг ЖКХ")
+Rel(prop_development_gkh, gkh_providers, "Получание и отправка информации по услугам ЖКХ")
+Rel(prop_development_gkh, payment_system, "Оплата ЖКХ")
+Rel(prop_development_sales, payment_system, "Перевод по сделкам")
+Rel(prop_development_sales, gov_smev, "Регистрация сделки")
+Rel(tentant, prop_development_smarthouse, "Управление умным домом")
+Rel(smarthouse_providers, prop_development_smarthouse, "Получение данных с датчиков")
+Rel(prop_development_smarthouse, smarthouse_providers, "Управление услугой")
+Rel(manager, prop_development_sales, "Проведение продаж, редактирование данных о жилье")
+
+Rel(prop_development_sales, prop_development_bi, "Сбор данных")
+Rel(prop_development_gkh, prop_development_bi, "Сбор данных")
+Rel(prop_development_smarthouse, prop_development_bi, "Сбор данных")
+Rel(bi_analyst, prop_development_bi, "Аналитика данных")
+
+Rel(business_analyst, prop_development_sales, "Анализирует и администрирует системы")
+Rel(business_analyst, prop_development_gkh, "Анализирует и администрирует системы")
+Rel(business_analyst, prop_development_smarthouse, "Анализирует и администрирует системы")
+Rel(business_analyst, prop_development_bi, "Анализирует и администрирует системы")
+
+Rel(accounter, prop_development_account, "Ведение бухгалтерии")
+
+@enduml
